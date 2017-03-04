@@ -1,0 +1,5 @@
+We're adding a new JPanel at the bottom of the 2 original panels as an instruction which specifies the steps the user should interact.
+- The user click a country from the list first, the GraphView will leave the points for the country selected.
+- The user then move the mouse (MouseEntered()) to the dot, and the dot will enlarge and show the (year, subscription).
+
+We'll implement MouseInputListener on both GraphView and LegendPanel to accomplish the interaction with the user.

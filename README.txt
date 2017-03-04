@@ -1,9 +1,3 @@
-# team06-project09
-
-Hsin Hsien (Cynthia) Chung, Zhongqiu Liu
-Foothill College Fall 2016 CS 1B
-
-
 Brief description of submitted files:
 
 src/cellularData/CalculationPanel.java
